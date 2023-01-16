@@ -155,4 +155,4 @@ elif nacoes == 3:
         print('[1] {}         [2] {}        [3] {}'.format(listaacao[2], listaacao[0], listaacao[1]))
 
     elif media2 < media1 < media0:
-        print('[1] {}         [2] {}        [3] {}'.format(listaacao[2], listaacao[1], listaacao(0)))
+        print('[1] {}         [2] {}        [3] {}'.format(listaacao[2], listaacao[1], listaacao[0]))
